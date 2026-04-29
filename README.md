@@ -28,7 +28,7 @@ from the resulting CSVs.
 - Python 3.10+
 - Packages in `requirements.txt`
 - The TAR (Takens Reconstruction) package from
-  https://github.com/maxtopel/TAR. Clone it adjacent and point `TIR_PATH`
+  https://github.com/maxtopel/TAR and is based on my PhD thesis Topel (2025). Clone it adjacent and point `TIR_PATH`
   at it:
 
   ```
