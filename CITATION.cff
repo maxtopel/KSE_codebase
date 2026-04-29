@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "KSE-paper: code for Kolmogorov–Sinai entropies identify optimal observables for prediction and dynamics reconstruction in chaotic systems"
+message: "If you use this code, please cite the accompanying paper."
+type: software
+authors:
+  - family-names: Topel
+    given-names: Maximilian
+    email: maxtopel@northwestern.edu
+    affiliation: Northwestern University
+license: MIT
+repository-code: "https://github.com/maxtopel/KSE_paper"
+preferred-citation:
+  type: article
+  title: "Kolmogorov–Sinai entropies identify optimal observables for prediction and dynamics reconstruction in chaotic systems"
+  authors:
+    - family-names: Topel
+      given-names: Maximilian
+  year: 2026
