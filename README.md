@@ -36,7 +36,7 @@ from the resulting CSVs.
   export TIR_PATH=$(pwd)/TAR/TIR_pkg
   ```
 
-- For C24H50, the MD trajectory from Ferguson *et al.*, PNAS 108 (2011) 13023.
+- For C24H50, the MD trajectory from Ferguson *et al.*, PNAS 107 (2010) 13597.
   Place `md_protein_fit.xtc` somewhere readable and set `CTC_TRAJ` to its path
   (default `../data/c24h50/md_protein_fit.xtc`).
 
