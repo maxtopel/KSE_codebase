@@ -8,7 +8,13 @@ authors:
     email: maxtopel@northwestern.edu
     affiliation: Northwestern University
 license: MIT
+version: "1.0.0"
+date-released: 2026-04-29
 repository-code: "https://github.com/maxtopel/KSE_codebase"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19899204
+    description: "Zenodo archive of v1.0.0"
 preferred-citation:
   type: article
   title: "Kolmogorov–Sinai entropies identify optimal observables for prediction and dynamics reconstruction in chaotic systems"
